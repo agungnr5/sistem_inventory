@@ -1,1 +1,1 @@
-# sistem_inventory
+# pratikum_inventory
